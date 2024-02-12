@@ -36,7 +36,6 @@
     "react-apexcharts": "^1.4.0",
     "react-app-polyfill": "^2.0.0",
     "react-bootstrap": "^2.0.0-beta.5",
-    "react-bootstrap-table-next": "^4.0.3",
     "react-chartjs-2": "2.8.0",
     "react-circular-progressbar": "^2.0.4",
     "react-confetti": "^6.1.0",
