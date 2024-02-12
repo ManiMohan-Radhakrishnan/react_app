@@ -246,7 +246,7 @@ const NewCardForm = ({ handleHide, trigger, setTrigger }) => {
     <div className="new-card-container">
       <div className="row">
         <div className="col-12">
-          <div className="mb-2">
+          {/* <div className="mb-2">
             <CreditCardInput
               onError={({ inputName }) => {
                 console.log(
@@ -291,7 +291,7 @@ const NewCardForm = ({ handleHide, trigger, setTrigger }) => {
                 Please enter valid card details
               </label>
             )}
-          </div>
+          </div> */}
         </div>
 
         <div className="col-12">
