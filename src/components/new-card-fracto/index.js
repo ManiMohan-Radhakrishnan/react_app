@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Select from "react-select";
 import { toast } from "react-toastify";
-import CreditCardInput from "react-credit-card-input";
+// import CreditCardInput from "react-credit-card-input";
 
 import {
   crispStyle,
